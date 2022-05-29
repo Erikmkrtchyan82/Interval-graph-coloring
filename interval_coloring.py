@@ -1,6 +1,5 @@
 import argparse
 import json
-from numpy import deprecate
 import plotly.graph_objects as go
 import os
 
